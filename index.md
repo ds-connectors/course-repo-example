@@ -26,7 +26,7 @@ The material for this course has significant overlap with CS 61A. We do not cove
 <table class="table table-striped table-hover ">
   <thead>
     <tr>
-      <th>#</th>
+      <th>Week</th>
       <th>Topic</th>
       <th>Readings</th>
       <th>Lab</th>
