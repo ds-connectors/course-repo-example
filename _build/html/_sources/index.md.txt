@@ -36,14 +36,14 @@ The material for this course has significant overlap with CS 61A. We do not cove
   <tbody>
     <tr>
       <td>1</td>
-      <td>Column content</td>
+      <td>[Introduction, Abstraction]()</td>
       <td>Column content</td>
       <td>Column content</td>
       <td>Column content</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Column content</td>
+      <td>[Algorithms, Data, Functions, Iteration]()</td>
       <td>Column content</td>
       <td>Column content</td>
       <td>Column content</td>
