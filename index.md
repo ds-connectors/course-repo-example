@@ -23,7 +23,7 @@ The material for this course has significant overlap with CS 61A. We do not cove
 
 ## Schedule
 
-<table class="table table-striped table-hover ">
+<table class="table table-striped table-hover">
   <thead>
     <tr>
       <th>Week</th>
@@ -36,7 +36,7 @@ The material for this course has significant overlap with CS 61A. We do not cove
   <tbody>
     <tr>
       <td>1</td>
-      <td>[Introduction, Abstraction]()</td>
+      <td>[Introduction, Abstraction](https://google.com)</td>
       <td>Column content</td>
       <td>Column content</td>
       <td>Column content</td>
@@ -50,7 +50,7 @@ The material for this course has significant overlap with CS 61A. We do not cove
     </tr>
     <tr>
       <td>3</td>
-      <td>Column content</td>
+      <td>[Scope, Recursion]()</td>
       <td>Column content</td>
       <td>Column content</td>
       <td>Column content</td>
