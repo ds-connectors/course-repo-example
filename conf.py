@@ -67,7 +67,7 @@ html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 # documentation.
 #
 html_theme_options = {
-    'bootswatch_theme': 'lumen',
+    'bootswatch_theme': 'readable',
     'navbar_pagenav': False,
     'source_link_position': None
 }
