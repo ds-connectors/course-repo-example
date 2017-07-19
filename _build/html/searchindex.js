@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["README","fa17/index","index"],envversion:52,filenames:["README.md","fa17/index.md","index.md"],objects:{},objnames:{},objtypes:{},terms:{},titles:["course-repo-template","&lt;no title&gt;","&lt;no title&gt;"],titleterms:{cours:0,repo:0,templat:0}})
