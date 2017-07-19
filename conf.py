@@ -24,16 +24,16 @@ templates_path = ['_templates']
 master_doc = 'index'
 
 # General information about the project.
-project = 'Course'
-copyright = '2017, Connector Course Author'
-author = 'Connector Course Author'
+project = 'CS88'
+copyright = '2017, Connector Course Instructor'
+author = 'Connector Course Instructor'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
 #
 # The short X.Y version.
-version = '0.1'
+version = 'Fall 2017'
 # The full version, including alpha/beta/rc tags.
 release = '0.1'
 
