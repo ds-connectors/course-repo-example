@@ -1,6 +1,6 @@
 # L&S88: Course Name
 
-Spring 2018 
+Spring 2018   
 Instructor: Name  
 Email: instructor@berkeley.edu  
 Lecture: Monday, 4-5pm in 101 Soda  
