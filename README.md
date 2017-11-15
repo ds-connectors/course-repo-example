@@ -31,12 +31,9 @@ This repository is one example of how you may want to structure your course repo
 1. You can find examples of how to set up OK in the [hw02](https://github.com/gunjanbaid/course-repo-example/tree/gh-pages/fa17/hw/hw02) and [lab02](https://github.com/gunjanbaid/course-repo-example/tree/gh-pages/fa17/lab/lab02) folders. 
 Specifically, there are examples of how to set up student-side autograding and submission.
  
-2. The theme for the site can be changed very easily through the repository's settings tab. First, click on the settings tab.
+2. The theme for the site can be changed very easily through the repository's settings tab. First, click on the settings tab. Then, scroll to the GitHub pages section. You may update the site theme by clicking on `Choose Theme`.
 
 ![image](https://user-images.githubusercontent.com/8205702/32854106-68c96dba-c9f2-11e7-8550-ce92ecd57495.png)
-
-Then, scroll to the GitHub pages section. You may update the site theme by clicking on `Choose Theme`.
-
 ![image](https://user-images.githubusercontent.com/8205702/32854062-48de0f38-c9f2-11e7-893c-0308db455b74.png)
 
 3. You do not have to use the `gh-pages` to publish content. You can also use the `master` branch. 
