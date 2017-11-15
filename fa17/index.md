@@ -9,6 +9,8 @@ Lecture: Monday, 4-5pm in 101 Soda
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tellus quam, hendrerit id purus et, maximus auctor purus. Ut sed convallis risus. Fusce at ultricies nibh. Vivamus vestibulum, lacus vitae hendrerit dignissim, urna nunc iaculis lectus, vel sagittis urna lorem porttitor nunc. Donec ullamcorper eleifend nisl sit amet iaculis. Morbi at ultrices enim. Morbi fringilla finibus sapien quis imperdiet. Duis faucibus massa et sem consectetur commodo. Mauris quis ultrices dui.
 
+## Course Policies: found [here](policies.md)
+
 ## Calendar
 
 Week | Topic | Readings | Lab | Homework 
