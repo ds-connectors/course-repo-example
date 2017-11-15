@@ -1,5 +1,5 @@
 # L&S88: Course Name
-test   
+   
 Fall 2017  
 Instructor: Name  
 Email: instructor@berkeley.edu  
